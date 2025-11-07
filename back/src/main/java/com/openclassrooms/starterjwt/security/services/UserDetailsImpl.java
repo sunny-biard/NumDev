@@ -33,7 +33,7 @@ public class UserDetailsImpl implements UserDetails {
   private String password;  
   
   public Collection<? extends GrantedAuthority> getAuthorities() {        
-      return new HashSet<GrantedAuthority>();
+    return new HashSet<GrantedAuthority>();
   }
 
   @Override
