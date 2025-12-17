@@ -1,4 +1,4 @@
-# NumDev - Application Full Stack
+# NumDev
 
 Projet OpenClassrooms visant à implémenter les tests unitaires, d'intégration et end-to-end d'une application Full-Stack.
 
