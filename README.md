@@ -159,12 +159,6 @@ mvn test -Dtest=NomDuTest
 
 ### Couverture Frontend (Jest)
 
-Le rapport est généré dans :
-
-```
-front/coverage/
-```
-
 Pour visualiser le rapport HTML, ouvrez le fichier :
 
 ```
@@ -173,12 +167,6 @@ front/coverage/lcov-report/index.html
 
 ### Couverture End-to-End (Cypress)
 
-Le rapport est généré dans :
-
-```
-front/coverage/
-```
-
 Pour visualiser le rapport HTML, ouvrez le fichier :
 
 ```
@@ -186,12 +174,6 @@ front/coverage/lcov-report/index.html
 ```
 
 ### Couverture Backend (JaCoCo)
-
-Le rapport est généré dans :
-
-```
-back/target/site/jacoco/
-```
 
 Pour visualiser le rapport HTML, ouvrez le fichier :
 
