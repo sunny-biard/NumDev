@@ -162,7 +162,7 @@ mvn test -Dtest=NomDuTest
 Pour visualiser le rapport HTML, ouvrez le fichier :
 
 ```
-front/coverage/lcov-report/index.html
+front/coverage/jest/lcov-report/index.html
 ```
 
 ### Couverture End-to-End (Cypress)
