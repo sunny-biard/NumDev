@@ -86,8 +86,6 @@ class SessionMapperTest {
         sessionDto.setUsers(Arrays.asList(1L, 2L));
     }
 
-    // ========== Tests toEntity ==========
-
     @Test
     void testToEntitySuccess() {
         when(teacherService.findById(1L)).thenReturn(teacher);
